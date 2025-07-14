@@ -52,7 +52,7 @@ require_once __DIR__.'/../includes/header-dashboard.php';
         <nav id="sidebar" class="col-md-3 col-lg-2 d-md-block bg-dark sidebar collapse">
             <div class="sidebar-sticky pt-3">
                 <div class="sidebar-header text-center mb-4">
-                    <img src="../assets/img/logo-white.png" alt="e-Yombna" class="sidebar-logo">
+                    <img src="../assets/images/logo.png" alt="e-Yombna"  class="sidebar-logo">
                     <h5 class="text-white mt-2">Espace Vendeur</h5>
                 </div>
                 
@@ -128,7 +128,7 @@ require_once __DIR__.'/../includes/header-dashboard.php';
                             <p class="mb-0">Vous gérez <strong><?= htmlspecialchars($user['entreprise']) ?></strong> depuis <strong><?= htmlspecialchars($user['ville']) ?></strong>.</p>
                         </div>
                         <div class="col-md-4 text-right">
-                            <img src="../assets/img/dashboard-welcome.png" alt="Welcome" class="img-fluid" style="max-height: 100px;">
+                            <img src="../assets/images/logo.png" alt="Welcome" class="img-fluid" style="max-height: 100px;">
                         </div>
                     </div>
                 </div>

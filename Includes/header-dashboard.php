@@ -8,7 +8,7 @@
     <title>Tableau de bord | e-Yombna</title>
     
     <!-- Favicon -->
-    <link rel="icon" href="../assets/img/favicon.png" type="image/png">
+    <link rel="icon" href="../assets/images/logo.png" type="image/png">
     
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
